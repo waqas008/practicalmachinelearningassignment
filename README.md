@@ -1,2 +1,2 @@
-# practicalmachinelearningassignment
-Coursera machine learning assignment
+# practicalmachinelearning
+Machine learning Practical exercise
